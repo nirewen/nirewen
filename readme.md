@@ -47,3 +47,5 @@ I make **websites** and **desktop** applications
 ![nirewen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirewen&layout=compact&theme=github_dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nirewen&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4B8DDA&dates=4B8DDA&stroke=FFFFFF)](https://git.io/streak-stats)
 -->
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-image: url('https://github.com/nirewen/nirewen/assets/8761479/0bdc61b8-9268-4df3-a23a-222f71e72ce6');]{x0000}$}
